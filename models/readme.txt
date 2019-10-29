@@ -1,0 +1,1 @@
+All of the pretrained iGAM models are located in this directory. use_example.py shows how these models can be unpicked and used.

@@ -1,0 +1,1 @@
+bst_bag_tree.py contains the class required to use iGAM models. The models folder contains the scripts required to train the iGAM models.
