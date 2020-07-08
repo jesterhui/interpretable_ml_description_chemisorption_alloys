@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 import setup
 from src.bst_bag_tree import BoostedBaggedTreeGAM
 
-np.random.seed(0)
+np.random.seed()
 DATA = np.loadtxt('../../data/processed/pt_o_data.csv', dtype='float',
                   delimiter=',', skiprows=1, usecols=range(1, 11))
 Y = DATA[:, 0].reshape(-1, 1)

@@ -1,0 +1,1 @@
+These .csv files contain the specific train-test splits used to train the models in this work. Training samples are denoted by 0, test samples by 1.

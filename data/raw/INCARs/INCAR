@@ -1,0 +1,13 @@
+INCAR created by Atomic Simulation Environment
+ ENCUT = 400.000000
+ SIGMA = 0.100000
+ EDIFF = 1.00e-04
+ EDIFFG = -3.00e-02
+ ALGO = fast
+ GGA = PE
+ PREC = Normal
+ IBRION = 2
+ IDIPOL = 3
+ ISMEAR = -1
+ ISTART = 0
+ LREAL = .FALSE.

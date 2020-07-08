@@ -1,1 +1,1 @@
-The processed folder contains all of the datasets used during model training, validation, and testing. The raw folder contains the dft optimized geometries used to obtain adsorption energies.
+The processed folder contains all of the datasets used during model training, validation, and testing, in addition to the specific train-test splits used to train the models in this work. The raw folder contains the dft optimized geometries used to obtain adsorption energies, as well as representative INCAR files.
